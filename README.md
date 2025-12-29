@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ece Çevik</h1>
+ <h1 align="center">Hi 👋, I'm Ece Çevik</h1>
 <h3 align="center">Computer Science Student from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,4 +12,4 @@
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ece-cevik/ece-cevik/blob/output/github-contribution-grid-snake.gif)
